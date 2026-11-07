@@ -11,6 +11,7 @@ Eager World Load eagerly queues world layer regeneration during save load so tha
   <supportedVersions>
     <li>1.7</li>
   </supportedVersions>
+  <publishedFileId>3835640736</publishedFileId>
   <modVersion>1.0.1</modVersion>
   <modDependencies>
     <li>
